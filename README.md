@@ -1,0 +1,2 @@
+- Run command "yarn start" from root directory of the project.
+- create react app using command "create-react-app myProject".
